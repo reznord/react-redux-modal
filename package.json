@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-modal",
+  "name": "@bms/redux-modal",
   "version": "0.5.2",
   "description": "react-redux-modal is a React modal implemented with Redux",
   "main": "lib/index.js",
