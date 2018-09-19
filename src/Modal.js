@@ -1,7 +1,8 @@
 'use strict';
 
-import React, {Component, PropTypes} from 'react';
+import React, {Component} from 'react';
 import classnames from 'classnames';
+import PropTypes from 'prop-types';
 
 class Modal extends Component {
   constructor(props) {
